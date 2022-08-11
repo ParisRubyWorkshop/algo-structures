@@ -2,8 +2,10 @@
 
 ### ci dessous vous allez trouver 5 méthodes, parfois en version récurvive, parfois itérative.
 ### A vous d'écrire la version manquante
-
+  
+  
 ```ruby
+
 # A tout seigneur, tout honneur, le classique factorielle, ici en mode iteratif
 # A vous d'écrire la version récursive
 def factorial(number)
