@@ -88,7 +88,7 @@ word_split('themanran',['the','ran','man'])
 
 
 
-    ["the", "ran", "man"]
+    ["the", "man", "ran"]
 
 
 
